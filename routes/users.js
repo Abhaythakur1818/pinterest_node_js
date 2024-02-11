@@ -36,3 +36,6 @@ userSchema.plugin(plm);
 const User = mongoose.model('User', userSchema);
 
 module.exports = User;
+
+
+// comment added for testing purpose
